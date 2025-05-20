@@ -1,7 +1,7 @@
 ---
 title: "Human-macaque issue: a case study"
 output:
-    github_document:
+  html_document:
     toc: true
     toc_depth: 2
     theme: united
