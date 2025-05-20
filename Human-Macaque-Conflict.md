@@ -31,8 +31,9 @@ As you move through the stations:
 
 ### Using the Map
 
-To navigate the route:
-<iframe src="https://www.google.com/maps/d/embed?mid=1UDcl1AcL5JGfOCzwegzqb7X0di48dQM&ehbc=2E312F" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+To navigate the routes open the
+[map](https://www.google.com/maps/d/u/3/viewer?hl=en&mid=1UDcl1AcL5JGfOCzwegzqb7X0di48dQM&ll=1.345568452391296%2C103.83533070000001&z=17)
+in another tab.
 
 - The map will show all six stations, suggested walking routes, and any
   optional rest points.
