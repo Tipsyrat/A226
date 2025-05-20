@@ -1,0 +1,128 @@
+---
+title: "Human-macaque issue: a case study"
+output:
+    github_document:
+    toc: true
+    toc_depth: 2
+    theme: united
+    df_print: default
+    lib_dir: site_libs
+    self_contained: true
+---
+
+
+# Introduction to the Learning Journey
+
+Singapore’s ambition to become a City in Nature has resulted in green spaces that are deeply integrated into our urban landscape. At MacRitchie Reservoir and the neighbouring Westlake Garden Estate, forest ecosystems sit right beside homes, recreational facilities, and park infrastructure. This creates a unique setting to observe how humans and wildlife interact in shared environments.
+
+This learning journey invites you to explore how natural and built systems intersect across six key stations. You will observe how land-use planning, infrastructure, stakeholder involvement, and resident behaviour shape the presence and impact of native wildlife — particularly long-tailed macaques.
+
+### Field Conduct Guidelines
+
+As you move through the stations:
+
+- **Keep your volume low** at all times — this protects the natural soundscape and avoids disturbing residents.
+- **Do not enter private property** or take photos of residents or homes without permission.
+- Be respectful to park users, residents, and any agency staff in the area.
+- Follow your faciliator closely and avoid crowding narrow paths or entrances.
+
+### Using the Map
+
+To navigate the route:
+- Open the [**Map**](https://www.google.com/maps/d/u/3/viewer?mid=1UDcl1AcL5JGfOCzwegzqb7X0di48dQM&ll=1.345568452391296%2C103.83533070000001&z=16).
+
+- The map will show all six stations, suggested walking routes, and any optional rest points.
+- Click on the map markers to view station descriptions if you're using a mobile device.
+
+Make sure your mobile data is turned on if using Google Maps in the field.
+
+
+---
+
+## Station 1: MacRitchie Park Shelter — Shared Spaces, Shared Responsibilities
+
+This station is located within the visitor zone of MacRitchie Reservoir, a highly frequented area that blends recreational infrastructure with natural surroundings. It is a multi-use space managed by various public agencies: PUB is in charge of waterworks and public amenities, while NParks oversees biodiversity and habitat conservation. Previously, the area included an open-concept food kiosk, which attracted wildlife—particularly macaques. Management changes were later introduced to reduce these interactions.
+
+Observe the current layout and consider how the space is used by people, what wildlife might be attracted to, and how various agencies might coordinate responses. Look out for signs, enclosures, waste bins, or physical barriers that help manage wildlife presence.
+
+
+- What human activities take place in this area, and how might they interact with the needs or behaviours of wildlife?
+- What visual cues can you find about past conflicts (e.g. warnings, changes in design)?
+- Who do you think manages different parts of this space? How might overlapping responsibilities affect how wildlife incidents are handled?
+- How does the presence of food, shelter, or human congregation affect wildlife presence in shared spaces?
+
+---
+
+## Station 2: Kayak Shed — Human Activity and Overlapping Stakeholder Zones
+
+This location sits at the boundary between forest, water, and recreational areas. It is home to the kayak and canoeing facilities managed by private operators, while the surrounding vegetation and water infrastructure are managed by NParks and PUB respectively. The diverse activities here—from boating to casual park use—create a dynamic environment with different noise levels, food sources, and waste management practices.
+
+As you explore this site, pay attention to how human activity may attract or repel animals. Look at storage areas, the cleanliness of the surroundings, and whether there are gaps or hiding places where wildlife might linger. Consider how well coordination between different users could be working.
+
+
+- What types of users (e.g. staff, visitors, athletes) operate here, and what are their routines?
+- How might equipment, leftover food, or waste unintentionally draw in wildlife?
+- What kind of evidence is there that animals may be present or deterred in this zone?
+- How do the differing responsibilities among stakeholders affect overall wildlife management?
+
+---
+
+## Station 3: Forest Junction — Experiencing the Forest’s Ecosystem Services
+
+As you stand at this junction near the forest edge, take a moment to pause and observe your surroundings. Do you notice any changes in the temperature compared to more built-up areas? Perhaps there’s more shade, a slight breeze, or cooler, more humid air. These are not just pleasant features — they are examples of ecosystem services provided by the forest.
+
+Forests contribute to human well-being in many ways. Some of these are ecological goods, such as timber or fruits, while others are services, like climate regulation, air purification, or recreational spaces. These benefits often go unnoticed but are essential to the quality of life for people living nearby.
+
+This station invites you to experience these benefits firsthand and reflect on what the forest offers to the surrounding community. It also encourages you to think about what might be lost if the forest is degraded or disconnected from where people live.
+
+- Do you feel a difference in temperature, air quality, or ambiance here? What causes this change?
+- Would you classify what you’re experiencing as an ecological good or an ecosystem service? Why?
+- Besides cooling, what other goods and services might this forest provide to nearby residents?
+- How might these ecosystem benefits reduce or increase the likelihood of human-wildlife interactions?
+- How can communities enjoy these benefits while also managing the presence of wildlife?
+
+---
+
+## Station 4: Wildlife Spotting — Appreciating the Forest’s Rich Inhabitants
+
+At this station, take a slow walk through the nearby trail or open park area and actively look for signs of the forest's many inhabitants. You may see or hear birds, spot insects among the undergrowth, notice tracks or scats, or even find signs of rooting or feeding left behind by larger mammals. Pay close attention not only to the animals themselves but to the traces they leave — they are all indicators of how rich and close this forest ecosystem truly is.
+
+Once you've made your observations, consider a key question: **how many of these species actually come into conflict with humans?** While the area is home to a wide range of wildlife, only a small number — such as macaques and wild boars — are commonly seen as conflict species. Why is that?
+
+This is your chance to explore the **traits and behaviours** that enable some animals to adapt to human presence, while others remain hidden or keep to the deeper forest. Think about diet, mobility, curiosity, boldness, and how tolerant these species might be to human activity.
+
+**Guiding Questions:**
+- What animal species did you spot, or what signs of wildlife did you observe (e.g. scats, tracks, calls)?
+- How many of these species are known to interact frequently with humans?
+- What differences do you notice between species that remain in the forest and those that explore human areas?
+- What characteristics make a species more likely to become a conflict species (e.g. generalist diet, boldness, high mobility)?
+- Why might many forest-dwelling species avoid contact with humans despite living so close?
+
+---
+
+## Station 5: Residential Edge — When Wildlife Meets the Neighbourhood
+
+Here, you’ll observe the point where forest and human settlement meet — a zone where wildlife encounters are most likely. Different types of residences border the forest, including eldercare homes with basic chain-link fences and private houses equipped with sturdier barriers. These differences influence how easily wildlife can enter human spaces.
+
+Pay close attention to the **design of fences, window grills, and barriers**. Note that macaques are incredibly dexterous and can squeeze through surprisingly small gaps — research and field experience have shown that **gaps must be less than 5 cm** to effectively prevent entry. Any larger, and a determined macaque could still find its way through.
+
+- What types of fencing or window grills do you observe? Are there visible gaps?
+- Which homes appear more secure, and why?
+- Can you identify fences or grills where gaps are clearly more than or less than 5 cm? What difference might that make?
+- How might housing type or financial resources affect residents’ ability to keep out wildlife?
+- What kinds of support or shared community efforts could help reduce the burden on individual households?
+
+---
+
+## Station 6: Westlake Garden Estate — Infrastructure and Community Solutions
+
+At this station, you’ll examine one of the most common interfaces between humans and wildlife — the humble rubbish bin. Bins may appear mundane, but their design plays a critical role in **preventing access to food waste**, which is a major driver of macaque incursions into residential areas.
+
+Take time to compare **different types of bins** along the road or near homes. Some bins are **standard NEA-issued models**, which prioritise cost-effectiveness due to their large-scale deployment. These may be less secure against determined macaques. Other bins are developed through **collaboration between NParks and NEA**, relying not only on design but also on **resident cooperation**, such as closing lids properly or avoiding food disposal in exposed bags. You may also find **more specialised bins used by PUB in partnership with NParks**, which are built with robust, tamper-resistant features — but these are also **significantly more expensive** and not widely distributed.
+
+- What types of bins do you observe in this area? How do they differ in design and materials?
+- Which bin designs look more resistant to animal interference? Which look less effective?
+- What might be the trade-offs between cost, coverage, and durability in bin deployment?
+- How does the success of a bin design depend not just on the product, but on how residents use it?
+- What role should agencies and communities play in maintaining wildlife-proof waste systems?
+
